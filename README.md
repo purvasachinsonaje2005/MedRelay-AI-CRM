@@ -296,21 +296,23 @@ AI Response
 # 📸 Screenshots
 
 ## Dashboard
-
-<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/178bbe1e-2ccc-4d57-9084-37931b1f3366" />
+<img width="1892" height="923" alt="image" src="https://github.com/user-attachments/assets/7dabe790-52a6-47e4-890f-306fc28be343" />
 
 
 ---
 
 ## AI Interaction Logging
 
-_Add screenshot here_
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/178bbe1e-2ccc-4d57-9084-37931b1f3366" />
+
+
 
 ---
 
 ## Interaction History
 
-_Add screenshot here_
+<img width="1892" height="917" alt="image" src="https://github.com/user-attachments/assets/15be8499-1801-48d7-b74c-2c892ef75755" />
+
 
 ---
 
