@@ -41,4 +41,5 @@ npm run dev
 - GET /docs
 
 ## Demo
-(Add screenshots here)
+<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/152ac706-c18a-4422-a381-4d5a761f169c" />
+
