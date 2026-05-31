@@ -1,8 +1,8 @@
-# 🚀 MedRelay AI CRM
+# MedRelay AI CRM
 
 <div align="center">
 
-### 🧠 AI-Powered Pharmaceutical CRM Assistant
+### AI-Powered Pharmaceutical CRM Assistant
 
 Built using **React + FastAPI + LangGraph + Groq + SQLite**
 
@@ -16,7 +16,7 @@ Built using **React + FastAPI + LangGraph + Groq + SQLite**
 
 ---
 
-# 📌 Overview
+# Overview
 
 MedRelay AI CRM is an intelligent healthcare interaction management system designed for pharmaceutical field representatives.
 
@@ -33,9 +33,9 @@ The application integrates a **LangGraph multi-tool AI workflow** with a modern 
 
 ---
 
-# ✨ Features
+# Features
 
-## 🤖 AI Interaction Logging
+## AI Interaction Logging
 Automatically extracts:
 - Doctor Name
 - Hospital Name
@@ -46,7 +46,7 @@ Automatically extracts:
 
 ---
 
-## 🧠 LangGraph AI Workflow
+## LangGraph AI Workflow
 Implements intelligent tool orchestration using:
 - SummarizeInteractionTool
 - FollowUpRecommendationTool
@@ -56,27 +56,27 @@ Implements intelligent tool orchestration using:
 
 ---
 
-## 📋 Smart Recommendations
+## Smart Recommendations
 AI-generated follow-up suggestions for healthcare engagement.
 
 ---
 
-## 📖 Interaction History
+## Interaction History
 Retrieve previous doctor interactions instantly.
 
 ---
 
-## ✏️ Interaction Editing
+## Interaction Editing
 Update existing interaction records using natural language.
 
 ---
 
-## 🎨 Modern Interactive Dashboard
+## Modern Interactive Dashboard
 Premium glassmorphism UI inspired by modern SaaS products.
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Frontend (React + Tailwind)
@@ -92,7 +92,7 @@ SQLite Database
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -107,7 +107,7 @@ SQLite Database
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 medrelay-ai-crm/
@@ -209,7 +209,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 🎨 Frontend Setup
+# Frontend Setup
 
 ## 1️⃣ Navigate to frontend
 
@@ -241,7 +241,7 @@ http://localhost:5173
 
 ---
 
-# 🔥 API Endpoint
+# API Endpoint
 
 ## POST `/agent`
 
@@ -273,7 +273,7 @@ http://localhost:5173
 
 ---
 
-# 🧠 LangGraph Workflow
+# LangGraph Workflow
 
 The system uses a multi-step AI workflow:
 
@@ -319,7 +319,7 @@ AI Response
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Authentication System
 - Advanced Analytics
@@ -330,7 +330,7 @@ AI Response
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ### Purva Sonaje
 
@@ -338,7 +338,7 @@ AI/ML & Full Stack Developer
 
 ---
 
-# ⭐ Conclusion
+# Conclusion
 
 MedRelay AI CRM demonstrates the integration of:
 
